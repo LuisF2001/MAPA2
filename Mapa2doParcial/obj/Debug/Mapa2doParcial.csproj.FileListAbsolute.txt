@@ -1,0 +1,10 @@
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\bin\Debug\Mapa2doParcial.exe.config
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\bin\Debug\Mapa2doParcial.exe
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\bin\Debug\Mapa2doParcial.pdb
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.MAPA.resources
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.Properties.Resources.resources
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.csproj.GenerateResource.cache
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.exe
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.pdb
+C:\Users\luisf\source\repos\Mapa2doParcial\Mapa2doParcial\obj\Debug\Mapa2doParcial.csprojAssemblyReference.cache
